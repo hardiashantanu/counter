@@ -1,0 +1,28 @@
+body{
+    background-image: url(img.jpeg);
+    font-family:  'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-style: italic;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    margin: auto;
+}
+
+button{
+    border: 1px,rgb(217, 87, 217),solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    background: plum;
+    color: white;
+}
+
+p
+{
+    margin: 10px;
+    font-style: italic;
+}
